@@ -1,0 +1,70 @@
+body {
+	padding: 0;
+	letter-spacing: 0.0em;
+	margin: 0;
+}
+
+div,
+p,
+form,
+input,
+a,
+span,
+button {
+	box-sizing: border-box;
+}
+
+p {
+	margin: 0;
+}
+
+ul,
+li {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+a,
+a:hover,
+a:active {
+	text-decoration: none;
+}
+
+a,
+button,
+input {
+	transition: all 0.5s ease;
+}
+
+input,
+input:hover,
+input:focus,
+input:active,
+button,
+button:hover,
+button:focus,
+button:active {
+	outline: none;
+}
+
+
+/* ----MENU LEFT----  */
+.menu-left {
+	width: 250px;
+	height: 100%;
+	background: #445169;
+	position: fixed;
+}
+
+/* ----MENU LEFT----  */
